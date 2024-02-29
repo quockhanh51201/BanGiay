@@ -1,0 +1,115 @@
+.wrapper {
+    .footter {
+        .container-send-email {
+            background-color: var(--main-color);
+            .send-email {
+                padding: 20px 80px;
+                max-width: 1430px;
+                margin: 0 auto;
+                display: flex;
+                align-items: center;
+                .text {
+                    display: flex;
+                    flex-direction: column;
+                    margin-right: 50px;
+                    .title {
+                        display: flex;
+                        justify-content: flex-end;
+                        margin-bottom: 10px;
+                        color: #fff;
+                        font-size: 30px;
+                    }
+                    .sub-title {
+                        color: #fff;
+                    }
+                }
+                .input-email {
+                    display: flex;
+                    .custom-input {
+                        width: 400px;
+                        height: 36px;
+                    }
+                    .custom-btn {
+                        margin-left: 12px;
+                    }
+                }
+            }
+        }
+        .item-img {
+            display: flex;
+            .item {
+                width: 300px;
+            }
+        }
+
+        .main-footer {
+            .footer-content {
+                background-color: #fff;
+                padding: 40px 0px;
+                .container {
+                    padding: 20px 80px;
+                    max-width: 1430px;
+                    margin: 0 auto;
+                    .nav-item {
+                        display: flex;
+                        .item-1 {
+                            display: flex;
+                            flex-direction: column;
+                            width: 30%;
+                            padding: 0 40px;
+
+                            h3 {
+                                margin-bottom: 25px;
+                                text-transform: uppercase;
+                            }
+                            p {
+                                line-height: 25px;
+                                font-size: 14px;
+                                color: var(--text-color);
+                            }
+                        }
+                        .item-2 {
+                            width: 30%;
+                            padding: 0 40px;
+                            h3 {
+                                margin-bottom: 25px;
+                                text-transform: uppercase;
+                            }
+                            ul {
+                                list-style-type: none;
+                                li {
+                                    padding: 5px;
+                                    a {
+                                        font-size: 14px;
+                                        color: var(--text-color);
+                                    }
+                                }
+                            }
+                        }
+                        .item-3 {
+                            h3 {
+                                margin-bottom: 25px;
+                                text-transform: uppercase;
+                            }
+                            .add {
+                                span {
+                                    &:nth-child(1) {
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        .copy {
+            background-color: rgb(215, 223, 223);
+            padding: 12px;
+            .text {
+                text-align: center;
+                font-size: 12px;
+            }
+        }
+    }
+}

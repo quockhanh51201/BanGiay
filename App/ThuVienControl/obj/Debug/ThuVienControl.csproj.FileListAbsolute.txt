@@ -1,0 +1,12 @@
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\ThuVienControl\obj\Debug\ThuVienControl.csproj.AssemblyReference.cache
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\ThuVienControl\obj\Debug\ThuVienControl.ctr_DangNhap.resources
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\ThuVienControl\obj\Debug\ThuVienControl.ctr_thaoTacNV.resources
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\ThuVienControl\obj\Debug\ThuVienControl.csproj.GenerateResource.cache
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\ThuVienControl\obj\Debug\ThuVienControl.csproj.CoreCompileInputs.cache
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\ThuVienControl\bin\Debug\ThuVienControl.dll
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\ThuVienControl\bin\Debug\ThuVienControl.pdb
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\ThuVienControl\bin\Debug\ThietKetControl.dll
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\ThuVienControl\bin\Debug\ThietKetControl.pdb
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\ThuVienControl\obj\Debug\ThuVienControl.csproj.CopyComplete
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\ThuVienControl\obj\Debug\ThuVienControl.dll
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\ThuVienControl\obj\Debug\ThuVienControl.pdb

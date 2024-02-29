@@ -1,0 +1,10 @@
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\BLL\bin\Debug\BLL.dll.config
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\BLL\bin\Debug\BLL.dll
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\BLL\bin\Debug\BLL.pdb
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\BLL\bin\Debug\DTO.dll
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\BLL\bin\Debug\DTO.pdb
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\BLL\obj\Debug\BLL.csproj.CopyComplete
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\BLL\obj\Debug\BLL.dll
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\BLL\obj\Debug\BLL.pdb

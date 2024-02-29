@@ -1,0 +1,111 @@
+.home-wrapp {
+ margin-top: 68px;
+  .wrapper {
+    .slider {
+    }
+    .section-commit {
+      max-width: 1230px;
+      margin: auto;
+      position: relative;
+      top: -85px;
+      .section-content {
+        display: flex;
+        justify-content: center;
+        .commit-item {
+          background-color: #fff;
+          box-shadow: 0 3px 6px -4px rgb(0 0 0 / 16%),
+            0 3px 6px rgb(0 0 0 / 23%);
+          margin: 12px;
+          border-radius: 12px;
+          padding: 20px;
+          .commit-content {
+            text-align: center;
+            .commit-icon {
+              margin-bottom: 12px;
+            }
+            .commit-tile {
+              margin-bottom: 12px;
+            }
+          }
+        }
+      }
+    }
+
+    // content:;
+    .collection {
+      .container {
+        padding: 0 80px;
+        max-width: 1430px;
+        margin: 0 auto;
+        .title {
+          display: flex;
+          justify-content: center;
+          margin-bottom: 40px;
+        }
+        .collection-product {
+          display: flex;
+          flex-wrap: wrap;
+        }
+      }
+    }
+    .banner {
+      padding: 50px 0 30px 0;
+      background: url(https://file.hstatic.net/1000230642/file/bg_banner_center_e500361972e84b9c8cb5aa4950919c46.jpg);
+      background-position: center top;
+      .container {
+        padding: 0 80px;
+        max-width: 1430px;
+        margin: 0 auto;
+        .title {
+          display: flex;
+          justify-content: center;
+          margin-bottom: 40px;
+        }
+        .banner-product {
+          display: flex;
+          justify-content: center;
+          padding: 10px 0px;
+
+          .item-banner {
+            width: 400px;
+            height: 198px;
+            margin: 0 10px;
+          }
+        }
+      }
+    }
+
+    .news {
+      padding: 50px 0 30px 0;
+      background: url(https://file.hstatic.net/1000230642/file/bg_banner_center_e500361972e84b9c8cb5aa4950919c46.jpg);
+      background-position: center top;
+      .container {
+        padding: 0 80px;
+        max-width: 1430px;
+        margin: 0 auto;
+        .title {
+          display: flex;
+          justify-content: center;
+          margin-bottom: 40px;
+        }
+        .new-list {
+          display: flex;
+          justify-content: center;
+          padding: 10px 0px;
+          .item {
+            border-radius: 10px;
+            background: #fff;
+            padding: 12px;
+            margin: 0 10px;
+            width: 340px;
+            .item-title {
+              h3 {
+                margin: 12px 0px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

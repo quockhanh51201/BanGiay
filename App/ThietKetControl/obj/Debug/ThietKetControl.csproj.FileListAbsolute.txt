@@ -1,0 +1,6 @@
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\ThietKetControl\bin\Debug\ThietKetControl.dll
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\ThietKetControl\bin\Debug\ThietKetControl.pdb
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\ThietKetControl\obj\Debug\ThietKetControl.csproj.AssemblyReference.cache
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\ThietKetControl\obj\Debug\ThietKetControl.csproj.CoreCompileInputs.cache
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\ThietKetControl\obj\Debug\ThietKetControl.dll
+W:\HUIT\PTPM\abc\WebSite-BanGiay\App\ThietKetControl\obj\Debug\ThietKetControl.pdb
